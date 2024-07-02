@@ -1,5 +1,6 @@
 import Link from 'next/link';
 
+
 const Navbar = () => (
   <nav className="bg-gray-800 p-4">
     <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
