@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 
 
 const Navbar = () => (
@@ -11,6 +13,7 @@ const Navbar = () => (
           <div className="flex-shrink-0">
             <Link href="/" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
               </Link>
+              <FontAwesomeIcon icon={faCoffee}></FontAwesomeIcon>
           </div>
           <div className="hidden sm:block sm:ml-6">
             <div className="flex space-x-4">
