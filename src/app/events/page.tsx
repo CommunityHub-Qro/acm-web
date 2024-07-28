@@ -11,8 +11,8 @@ export default async function EventsPage() {
 
 
   return (
-    <>
+    <div className=''>
       <EventCalendar session={session} />
-    </>
+    </div>
   )
 }
