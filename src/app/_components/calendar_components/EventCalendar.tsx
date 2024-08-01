@@ -98,8 +98,8 @@ const EventCalendar: FC<Props> = ({ session}) =>  {
     }) as EventsData;
 
   return (
-    <div className='bg-gradient-to-t from-[#500889] to-[#440674] flex flex-col items-center absolute top-0'>
-      <div className='flex flex-col md:flex-row justify-center items-center pb-3 h-full'>
+    <div className='bg-gradient-to-t from-[#500889] to-[#440674] flex flex-col items-center'>
+      <div className='flex flex-col md:flex-row justify-center items-center pb-3 h-full mt-10'>
   {/* Display día seleccionado */}
             <aside className={`w-1/3 h-[100vh] mt-[5rem] bg-[#8620b6] rounded-l-2xl hidden md:flex justify-end items-center flex-col`}>
                 <div className='felx h-1/2 items-end mb-5'>
