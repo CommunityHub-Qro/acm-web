@@ -11,7 +11,7 @@ const Contact = () => {
                     </h1>
                     <div className="w-96 px-5 lg:px-0 lg:w-max pb-6 text-xs lg:text-sm text-justify">
                         <p>
-                            Siéntete libre de contactarnos en cualquier momento. Estamos aquí para ayudarte con cualquier consulta, sugerencia o comentario que tengas.
+                            sugerencia o comentario que tengas.
                         </p>
                         <p>
                             Nuestro equipo se pondrá en contacto contigo lo más rápido posible
