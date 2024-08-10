@@ -15,7 +15,7 @@ export default async function Home() {
         <section className="min-h-screen flex flex-col items-center justify-center">
           <div className="grid grid-rows-8 grid-cols-4 items-center text-center text-white">
             <h1 className="text-xl tracking-wide font-extrabold sm:text-[14rem] col-start-2 col-span-2 row-start-4">
-              <span className="acm text-10xl">A C M</span>
+              <span className="acm text-10xl">Prueba</span>
             </h1>
             <div className="col-start-2 col-span-2 row-start-6 items-center font-mono">
               ¡Bienvenido a ACM! Somos un grupo estudiantil del Tecnológico de Monterrey, Campus Querétaro dedicado a la
